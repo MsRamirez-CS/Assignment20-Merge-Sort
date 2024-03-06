@@ -14,7 +14,12 @@ public class MergeSort {
 		
 	}
 
-	public static void merge(int[] leftArray, int[] rightArray, int[] a)
+	public static void mergeLtoH(int[] leftArray, int[] rightArray, int[] a)
+	{
+
+	}
+
+	public static void mergeHtoL(int[] leftArray, int[] rightArray, int[] a)
 	{
 
 	}
@@ -29,7 +34,12 @@ public class MergeSort {
 		
 	}
 
-	public static void merge(ArrayList<Integer> leftArray, ArrayList<Integer> rightArray, ArrayList<Integer> a)
+	public static void mergeLtoH(ArrayList<Integer> leftArray, ArrayList<Integer> rightArray, ArrayList<Integer> a)
+	{
+
+	}
+
+	public static void mergeHtoL(ArrayList<Integer> leftArray, ArrayList<Integer> rightArray, ArrayList<Integer> a)
 	{
 
 	}
